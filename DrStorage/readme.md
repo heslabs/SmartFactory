@@ -15,8 +15,7 @@ https://www.dr-storage.com/zh-tw
 ---
 ###  汉唐高强防潮电子（上海）有限公司
 * https://www.dr-storage.com/zh-cn/product.html
-* https://www.dr-storage.com/zh-cn/product-c158396/%E5%B7%A5%E4%B8%9A%E7%94%A8%E7%83%A4%E7%AE%B1.html
-
+  
 聯絡方式 
 * 业务总部：汉唐高强防潮电子（上海）有限公司 | 地址:上海市徐汇区宜山路425号
 * 工厂总部：昆山高强工业设备有限公司 | 地址：江苏省昆山市北门路2898号
