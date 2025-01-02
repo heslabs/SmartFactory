@@ -1,5 +1,7 @@
 # 優智能科技 GoEdge AI
 
+<img src="https://github.com/user-attachments/assets/69bf7771-6130-4658-b259-320a0894388f" width=250>
+
 ---
 ### 優智能聯絡資訊 
 官網：https://www.goedge.ai/
@@ -17,6 +19,6 @@
 ---
 ## 數據解析顧問 Bilocation Pro
 <br/><br/>
-<img src="https://github.com/user-attachments/assets/9854dec0-4c06-4efd-9546-32bcc66092c3" width=800>
+<img src="https://github.com/user-attachments/assets/9854dec0-4c06-4efd-9546-32bcc66092c3" width=650>
 <br/><br/>
 
