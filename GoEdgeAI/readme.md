@@ -14,7 +14,9 @@
 * 我們的系統集中管理數據，以彈性的方式生成關鍵資訊報表，節省了資料整理的時間成本。與現有市場上缺乏場域知識的 AI 模型相比，我們的系統能夠提供實用且即刻可用的解決方案。
 體驗未來的知識管理，歡迎與我們聯繫，提高您的生產力！
 
+---
+## 數據解析顧問 Bilocation Pro
 <br/><br/>
-<img src="https://github.com/user-attachments/assets/d3191b78-7f91-4d33-9f11-f86a368e91dd" width=800>
+<img src="https://github.com/user-attachments/assets/9854dec0-4c06-4efd-9546-32bcc66092c3" width=800>
 <br/><br/>
 
