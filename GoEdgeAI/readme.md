@@ -1,7 +1,12 @@
 # 優智能科技 GoEdge AI
 
-* https://www.goedge.ai/
-  
+---
+### 優智能聯絡資訊 
+官網：https://www.goedge.ai/
+信箱：info@goedge.ai
+電話：+886-3-5731934
+
+
 ---
 ## 優智能 可提示性智慧知識管理系統 
 * [[Youtube]](https://www.youtube.com/watch?v=k2uNs0cR_lA)
@@ -14,8 +19,3 @@
 <img src="https://github.com/user-attachments/assets/d3191b78-7f91-4d33-9f11-f86a368e91dd" width=800>
 <br/><br/>
 
----
-### 優智能聯絡資訊 
-官網：https://www.goedge.ai/
-信箱：info@goedge.ai
-電話：+886-3-5731934
