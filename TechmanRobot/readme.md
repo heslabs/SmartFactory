@@ -26,3 +26,6 @@ https://www.tm-robot.com/zh-hant/smart-factory/
 <br/><br/>
 <img src="https://github.com/user-attachments/assets/a0302922-93be-4df3-b3b6-ac950ad29a85" width=600>
 <br/><br/>
+
+---
+<img src="https://github.com/user-attachments/assets/69239bb8-71da-4562-a0cc-f7f00c7b2bc8" width=1000>
