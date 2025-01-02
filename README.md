@@ -1,7 +1,7 @@
 # SmartFactory 智慧工廠
 
 ---
-## Requirement
+## 智慧工廠需求要素
 
 生成式AI (GAI) 決策平台
 * 企業知識管理 (KMS)
