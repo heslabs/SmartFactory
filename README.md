@@ -1,4 +1,4 @@
-# SmartFactory
+# SmartFactory 智慧工廠
 
 ---
 ## Requirement
