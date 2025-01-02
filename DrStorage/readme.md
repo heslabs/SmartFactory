@@ -1,6 +1,6 @@
 # 漢唐科技 Dr. Storage
 
-https://www.dr-storage.com/zh-tw/product.html
+https://www.dr-storage.com/zh-tw
 <br/><br/>
 <img src="https://github.com/user-attachments/assets/b9fcba3a-fe37-46ab-bc93-6e99521feb5a" width=600>
 <br/><br/>
@@ -9,5 +9,6 @@ https://www.dr-storage.com/zh-tw/product.html
 
 ---
 ## Product
+https://www.dr-storage.com/zh-tw/product.html
 
 <img src="https://github.com/user-attachments/assets/452a8237-212f-4971-80cc-d40326198569" width=900>
